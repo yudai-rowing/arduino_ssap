@@ -32,7 +32,7 @@
 
 .  
 ├── i2c  
- |    └── kx132.io  
+│   └── kx132.io  
 ├── main.io  
 └── README.md  
 
